@@ -1,3 +1,11 @@
+##My Ignores##
+##############
+*bin
+*obj
+*.suo
+
+##Template ignores##
+####################
 # Compiled source #
 ###################
 *.com
